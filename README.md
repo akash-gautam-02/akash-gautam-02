@@ -59,28 +59,6 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td>🔭 Working on</td>
-    <td><b>Awesome Frontend Projects & Dashboards</b></td>
-  </tr>
-  <tr>
-    <td>🌱 Learning</td>
-    <td><b>React.js, TypeScript, Advanced CSS</b></td>
-  </tr>
-  <tr>
-    <td>💡 Passionate about</td>
-    <td><b>Turning complex data into visual stories</b></td>
-  </tr>
-  <tr>
-    <td>🎯 2025 Goal</td>
-    <td><b>Contribute to 10+ Open Source Projects</b></td>
-  </tr>
-  <tr>
-    <td>⚡ Fun Fact</td>
-    <td><b>My UI works better when I code with lo-fi music 🎵</b></td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -197,17 +175,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Demo |
-|:---|:---|:---|:---:|
-| 📊 **Data Visualization Dashboard** | Real-time charts with dynamic filtering & live updates | `Chart.js` `Bootstrap` `JS` | [▶ Live](#) |
-| 🖥️ **Responsive Portfolio** | Clean modern portfolio with smooth Figma-designed animations | `HTML` `CSS` `Figma` | [▶ Live](#) |
-| 📈 **Analytics Dashboard** | Multi-chart analytics panel with Bootstrap UI components | `Chart.js` `Bootstrap` `JS` | [▶ Live](#) |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -223,21 +190,9 @@
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-gautam-02&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akash-gautam-02&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Activity Graph
 
@@ -247,66 +202,6 @@
 
 </div>
 
----
-
-## 📈 Top Contributed Repos
-
-<div align="center">
-
-[![](https://github-contributor-stats.vercel.app/api?username=akash-gautam-02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/akash-gautam-02)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-gautam-02/akash-gautam-02/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-gautam-02/akash-gautam-02/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akash-gautam-02/akash-gautam-02/output/github-snake-dark.svg" />
-</picture>
-
-<details>
-<summary>⚙️ How to enable Snake Animation</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: akash-gautam-02
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
